@@ -1,0 +1,68 @@
+h1 {
+    color: rgba(255, 0, 0, 0.553);
+}
+h3 {
+    color: red;
+}
+p {
+    color:purple;
+}
+#slika {
+   size: 400px x 300px;
+}
+a:link {
+    color: orangered;
+}
+body {
+    background-color: rgb(235, 221, 73);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.klasa {
+    text-align: center;
+}
+.para {
+    text-align: right;
+    font-size: 24px;
+}
+#slika {
+    border-style: dashed;
+    border-width: 2px;
+}
+#naslov {
+    text-align: center;
+    color: green;
+    font-family: Comic sans-serif;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: yellow;
+}
+h2 {
+    text-align: center;
+    color: rgb(204, 140, 23);
+}
+#sator {
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(217, 147, 18);
+}
+.vezba4 {
+    color: blue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#jezero {
+    color: purple;
+}
+#jezero a:visited {
+    color: red;
+}
+#jezero a:hover {
+    color: green;
+}
+#div{
+    background-color: aliceblue;
+}

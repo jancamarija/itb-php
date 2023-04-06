@@ -1,0 +1,57 @@
+.klasa {
+    color:black;
+}
+
+#p1{
+    color: rgb(255, 106, 0);
+}
+.moja_klasa{
+    text-align: right;
+}
+/*
+div p {
+    text-align: left;
+    font-size: 25px;
+}
+
+div>p {
+    font-size: 25px;
+}
+
+div+p {
+    font-size: 25px;
+}
+*/
+div~p {
+    font-size: 30px;
+}
+a:hover {
+    color: rgb(152, 118, 118);
+}
+a:visited {
+    color: red
+}
+a:link {
+    color: blueviolet;
+}
+a:active {
+    color: green;
+}
+a::before {
+    content: "Ovo je link:";
+}
+/*
+p:first-child {
+    border: 5px dotted silver;
+}
+
+p:first-of-type {
+    border: 5px dotted silver;
+}
+p:nth-of-type(2) {
+    border: 5px dotted silver;  
+}
+*/
+li:nth-child(odd) {
+    color: red;
+}
